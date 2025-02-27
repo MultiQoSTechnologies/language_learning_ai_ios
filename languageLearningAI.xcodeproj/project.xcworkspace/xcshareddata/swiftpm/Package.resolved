@@ -1,0 +1,60 @@
+{
+  "originHash" : "b4286e31bf4cb192c0769d6e9b1247d0c3e29d4b6eb0014054b3da99d5f2cf2a",
+  "pins" : [
+    {
+      "identity" : "cdmarkdownkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chrisdhaan/CDMarkdownKit.git",
+      "state" : {
+        "revision" : "b08981016f9406eb6d18150a3c8caa4288983d2e",
+        "version" : "2.5.1"
+      }
+    },
+    {
+      "identity" : "elevenlabsswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exhuman-ai/ElevenLabsSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3cc3c0ff7e7db8be44242805b9923563744b7733"
+      }
+    },
+    {
+      "identity" : "generative-ai-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/google-gemini/generative-ai-swift",
+      "state" : {
+        "revision" : "44b8ce120425f9cf53ca756f3434ca2c2696f8bd",
+        "version" : "0.5.6"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios",
+      "state" : {
+        "revision" : "047aa81b77adcbf583a966dfef620d17650cc656",
+        "version" : "4.5.1"
+      }
+    },
+    {
+      "identity" : "nvactivityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/NVActivityIndicatorView",
+      "state" : {
+        "revision" : "121455c4e630fcb95aaefd7e4257b0c2e3cfe6d5",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    }
+  ],
+  "version" : 3
+}
