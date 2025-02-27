@@ -41,7 +41,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MultiQoSTechnologies/language_learning_ai_ios.git
    cd your-repo
    
 2. **Generate API Keys**
